@@ -6,3 +6,4 @@ logs/*.csv
 logs/*.json
 logs/*.png
 !logs/.gitkeep
+.codex_temp/
